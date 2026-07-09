@@ -2,6 +2,17 @@
 A simple electronic music keyboard built using an ESP32. 
 The device allows users to play notes using physical pushbuttons, switch octaves using a potentiometer, and provides LED feedback and startup & shutdown audio sequences. 
 
+## Demonstration: 
+<video src="https://github.com/user-attachments/assets/fab6a7f1-baaf-4898-b4c3-22661c3728d6"
+controls
+style="max-width: 500px; width: 100%; display: block; margin: 10px 0;">
+</video>
+
+<video src="https://github.com/user-attachments/assets/99546f6b-2acd-4c57-a835-44497ccba4ea"
+controls
+style="max-width: 500px; width: 100%; display: block; margin: 10px 0;">
+</video>
+
 ## Features: 
 - 8-button playable musical keyboard
 - 3-octave switching using potentiometer
@@ -27,14 +38,3 @@ The device allows users to play notes using physical pushbuttons, switch octaves
 - 3 LEDs 
 
 During development, the original passive buzzer got damaged and I replaced it with a small speaker, powered it by batteries, driven through a transistor circuit..  
-
-## Demonstration: 
-<video src="https://github.com/user-attachments/assets/fab6a7f1-baaf-4898-b4c3-22661c3728d6"
-controls
-style="max-width: 500px; width: 100%; display: block; margin: 10px 0;">
-</video>
-
-<video src="https://github.com/user-attachments/assets/99546f6b-2acd-4c57-a835-44497ccba4ea"
-controls
-style="max-width: 500px; width: 100%; display: block; margin: 10px 0;">
-</video>
